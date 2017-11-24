@@ -2,7 +2,12 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1511528906915">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/GitHub projects/testautomation/Testfile" timestamp="1511528108764" />
+    </filemarks>
     <jumps />
     <registers />
     <search>
